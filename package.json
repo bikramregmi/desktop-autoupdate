@@ -1,9 +1,9 @@
 {
-  "name": "electron-updater-example",
+  "name": "desktop-autoupdate",
   "version": "0.7.1",
   "main": "main.js",
-  "description": "electron-updater example project",
-  "author": "Matt Haggard",
+  "description": "desktop-autoupdate example project",
+  "author": "Bikram Regmi",
   "scripts": {
     "publish": "build -p always"
   },
@@ -16,7 +16,7 @@
     "electron-updater": "^4.0.6"
   },
   "build": {
-    "appId": "com.github.iffy.electronupdaterexample",
+    "appId": "com.github.bikramregmi.desktop-autoupdate",
     "mac": {
       "category": "your.app.category.type",
       "target": [
