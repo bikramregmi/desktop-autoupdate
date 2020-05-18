@@ -1,6 +1,6 @@
 {
   "name": "desktop-autoupdate",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "main": "main.js",
   "description": "desktop-autoupdate example project",
   "author": "Bikram Regmi",
